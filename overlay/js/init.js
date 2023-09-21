@@ -83,7 +83,7 @@ Mopi2 = {
         autoHide: 1, 
         tooltips: 1, 
         toast: 1, 
-        Lang: "KR", 
+        Lang: "EN",
         fTime: 'DS-Digital',
         fTarget: 'Segoe UI',
         fRPS: 'Roboto Condensed',
